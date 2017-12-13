@@ -1,0 +1,30 @@
+body{
+	background: #ffff99;
+}
+h2 {
+	color: #006699;
+	text-align:center;
+}
+h3 {
+	color: #4d79ff;
+	font-weight: 400;
+}
+ul {
+	li {
+		padding:10px;
+		background:#000;
+		list-style-type:none;
+		margin:5px 0;
+		color:#fff;
+		a {
+			color:#fff;
+			text-decoration: none;
+		}
+		a:active {
+			color:blue;
+		}
+		a:hover {
+			color:yellow;
+		}
+	}
+}
